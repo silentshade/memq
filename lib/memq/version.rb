@@ -1,0 +1,3 @@
+module Memq
+  VERSION = "0.0.1"
+end
