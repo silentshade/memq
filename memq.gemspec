@@ -16,4 +16,6 @@ Gem::Specification.new do |gem|
   gem.version       = Memq::VERSION
 
   gem.add_dependency "dalli"
+  gem.add_development_dependency "rspec"
+  
 end
